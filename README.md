@@ -1,7 +1,7 @@
 # Face Tracker with OpenCV and Flask
 
 ## Overview
-This project uses OpenCV and Flask to track a user's face via a webcam and move the mouse cursor accordingly. The face is detected using OpenCV's pre-trained Haar Cascade classifier, and the position of the detected face is mapped to screen coordinates for controlling the mouse.
+FacePointer project uses OpenCV and Flask to track a user's face via a webcam and move the mouse cursor accordingly. The face is detected using OpenCV's pre-trained Haar Cascade classifier, and the position of the detected face is mapped to screen coordinates for controlling the mouse.
 
 ## Features
 - Real-time face tracking using OpenCV
